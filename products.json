@@ -1,11 +1,10 @@
 [
     {
         "Name": "AmazonBasics Wireless Computer Mouse with Nano Receiver",
-        "UPC": 123456789123,
+        "UPC": 657765776589,
         "ID": 0,
         "SKU": "SKU code",
-        "Description": "Smooth, precise and affordable wireless optical 3-button mouse with nano receiver for laptop, desktop and netbook PCs 2.4 GHz wireless provides a powerful, reliable connection
-        Nano-receiver stays in the PC USB port or stows conveniently inside the wireless mouse when not in use (note: Receiver is stored within the mouse from production and needs to be removed upon setup)
+        "Description": "Smooth, precise and affordable wireless optical 3-button mouse with nano receiver for laptop, desktop and netbook PCs 2.4 GHz wireless provides a powerful, reliable connection Nano-receiver stays in the PC USB port or stows conveniently inside the wireless mouse when not in use (note: Receiver is stored within the mouse from production and needs to be removed upon setup)
         Compatible with Windows 2000, XP, Vista, 7, 8, and 10 and Apple OS X
         Easy installation - refer to user manual for instructions
         Backed by an AmazonBasics 1-Year Limited Warranty",
@@ -14,193 +13,202 @@
         "Quantity": 58
     },
     {
-        "Name": "Product2",
+        "Name": "Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L,Silver",
         "UPC": 123456789123,
         "ID": 1,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "AMD Ryzen 3 3200U Dual Core Processor (Up to 3.5GHz); 4GB DDR4 Memory; 128GB PCIe NVMe SSD
+        15.6 inches Full HD (1920 x 1080) Widescreen LED backlit IPS Display; AMD Radeon Vega 3 Mobile Graphics
+        1 USB 3.1 Gen 1 Port, 2 USB 2.0 Ports & 1 HDMI Port with HDCP support
+        802.11ac Wi-Fi; Backlit Keyboard; Up to 7.5 Hours Battery Life
+        Windows 10 in S mode. Maximum Power Supply Wattage 65 W",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/acer_laptop.jpg",
+        "Price": 349.99,
+        "Quantity": 14
     },
     {
-        "Name": "Product3",
-        "UPC": 123456789123,
+        "Name": "Google - Pixel 3a with 64GB Memory Cell Phone (Unlocked) - Clearly White",
+        "UPC": 128412948562,
         "ID": 2,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Capture stunning photos with features like night sight, portrait mode, and HDR+
+        Save every photo with free, unlimited storage at high quality through Google photos
+        The Google assistant is the easiest way to get things done including screening calls
+        Fast Charging battery delivers up to 7 hours of use with just a 15 minute charge
+        Comes with 3 years of OS and security updates and the custom built Titan M chip
+        Switch seamlessly and keep all your stuff . Plus your favorite Google apps are built in
+        The latest Android 9.0 Pie. 100,000:1 super contrast ratio",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/google_pixel3.png",
+        "Price": 295.50,
+        "Quantity": 3
     },
     {
-        "Name": "Product4",
-        "UPC": 123456789123,
+        "Name": "Logitech Over-The-Head Wireless Headset H600",
+        "UPC": 472961937648,
         "ID": 3,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Convenient leave-in wireless receiver: Tiny nano receiver stays in your computer so your headset is always ready to use
+        Clear stereo sound: Laser-tuned speaker drivers and noise-cancelling microphone for clear calls. Frequency response (Headset): 40Hz - 10KHz , Frequency response (Microphone): 100Hz - 6.5kHz
+        Long-range wireless: Listen and chat up to 10 meter (33 feet.) from your computer-and longer with a six-hour rechargeable battery
+        Comfortable design: Adjustable headband and foam ear cups feel good even after long hours of use. Make sure the headset is the active output audio device in both your application and operating system
+        Works with Windows, Mac and common calling applications like Skype, Yahoo Messenger, Gmail, Windows Live Messenger and AIM",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/headset_logitech.jpg",
+        "Price": 78.94,
+        "Quantity": 25
     },
     {
-        "Name": "Product5",
-        "UPC": 123456789123,
+        "Name": "NVIDIA SHIELD Controller - Android",
+        "UPC": 873596148536,
         "ID": 4,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "The official controller for SHIELD portable and SHIELD Tablet. Support for GeForce-equipped PCs coming soon.
+        Redesigned from the ground up for precision gaming
+        Dual vibration feedback
+        Stereo headphone jack for private audio",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/controller.jpg",
+        "Price": 64.99,
+        "Quantity": 35
     },
     {
-        "Name": "Product6",
-        "UPC": 123456789123,
+        "Name": "Logitech C922x Pro Stream Webcam – Full 1080p HD Camera",
+        "UPC": 873259654781,
         "ID": 5,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Web Camera specifically designed and optimized for professional quality video streaming on social gaming and entertainment sites like Twitch and YouTube
+        Stream and record vibrant, true to life HD 1080P video at 30Fps/ 720P at 60FPS. Compatibility Windows 7, Windows 8 or Windows 10, macOS X 10.9 or higher, XBox One, Chrome OS, Android v5.0 or above, USB port. FoV: 78 degree
+        Full HD glass lens and premium autofocus deliver razor sharp, clear video in consistent high definition while 2 Built in mics capture your voice in rich Stereo Audio
+        Record clear videos even in dim or poorly backlit settings with automatic light Correction. Cable length: 5 feet",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/logitech_camera.png",
+        "Price": 149.0,
+        "Quantity": 5
     },
     {
-        "Name": "Product7",
-        "UPC": 123456789123,
+        "Name": "Logitech 3.5mm Jack Compact Laptop Speakers, Black (Z130)",
+        "UPC": 823496517398,
         "ID": 6,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Rich and strong stereo sound with 5 watts of power
+        Compact, low-profile design ideal for desks with limited space
+        Convenient on-speaker volume and power controls, headphone jack, plus 3.5 millimeter jack input for your MP3, DVD or CD player
+        Simple setup - connects to your laptop or desktop with a standard 3.5 millimeter plug.Works with Windows and Mac OS",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/logitech_speakers.jpg",
+        "Price": 29.37,
+        "Quantity": 14
     },
     {
-        "Name": "Product8",
-        "UPC": 123456789123,
+        "Name": "Acer V246HQL 23.6-Inch Full HD LED Backlit Widescreen LCD Monitor",
+        "UPC": 853179654127,
         "ID": 7,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "23.6-Inch Full HD (1920 x 1080)
+        Brightness: 250 cd/m2
+        Viewing Angle: ANGLE: 170(H) X 160(V)
+        Stand: TILT, Detachable Foot Stand,",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/acer_monitor.jpg",
+        "Price": 73.86,
+        "Quantity": 6
     },
     {
-        "Name": "Product9",
-        "UPC": 123456789123,
+        "Name": "AmazonBasics Matte Black Wired Keyboard - US Layout (QWERTY)",
+        "UPC": 271354863593,
         "ID": 8,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Low-profile Keys Provide a Quiet, Comfortable Typing Experience
+        Hotkeys Enable Easy Access for Media, My Computer, Mute, Volume down, Volume up, and Calculator; 4 Function Keys Control Previous Track, Stop, Play/pause, next Track on Your Media Player
+        Simple Wired USB Connection; Works with Windows 2000, XP, Vista, 7, 8, and 10
+        Ships in Certified Frustration-free Packaging; Backed by an AmazonBasics 1-Year Standard Limited Warranty",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/keyboard.jpg",
+        "Price": 19.99,
+        "Quantity": 45
     },
     {
-        "Name": "Product10",
-        "UPC": 123456789123,
+        "Name": "HP Elite 8100 Desktop Computer - Intel Core i5 3.2GHz Processor, 8GB RAM, 1TB Hard Drive, 20 Inch LCD Monitor, DVD, New USB Keyboard, Mouse & WiFi Adapter, Windows 10 Professional (Renewed)",
+        "UPC": 853255658746,
         "ID": 9,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "This product has been professionally inspected and tested by Amazon-qualified suppliers. The product may have minimal scratches or dents, and a battery with at least 80% capacity. Box may be generic and accessories may not be original, but will be compatible and fully functional. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied. Learn more
+
+        POWERFUL PROCESSOR - Configured with Intel’s top of the line Core i5 series processor so you can expect lightning fast, reliable and consistent performance for an exceptional PC experience.
+        SUPERIOR STORAGE AND MEMORY – Customized with ample hard drive space to store apps, games, photos, music and movies. Loaded with plenty of DDR3 RAM to zip through multiple tasks in a hurry and outperform the competition in any situation.
+        BUILT IN CONNECTIVITY - Stay connected to the internet with Periphio wireless technology and integrated network card. Play your favorite music files with stereo sound. Easily connect to large and multiple monitors through onboard DisplayPort technology.
+        WINDOWS 10 LATEST RELEASE - A new installation of the latest Microsoft Windows 10 Operating System software, free of bloatware commonly installed from other manufacturers. As Microsoft's latest and best OS to date, Windows 10 will maximize the utility of each PC for years to come. Optional software such as Anti-Virus and Office 365 can also be easily downloaded through the Microsoft Windows App Store.
+        CUSTOM TAILORED FOR A SECURE START - Configured to tackle all the most commonly needed tasks right out of the box - Browse the internet, stream movies & music, complete homework, store photos, and much more.  All custom produced computers are backed by a 90 day warranty and 90 day tech support to ensure a smooth, easy and secure introduction.",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/desktop_computer.png",
+        "Price": 265.98,
+        "Quantity": 2
     },
     {
-        "Name": "Product11",
-        "UPC": 123456789123,
+        "Name": "HP OfficeJet 3830 All-in-One Wireless Printer, HP Instant Ink or Amazon Dash replenishment ready (K7V40A)",
+        "UPC": 858575132658,
         "ID": 10,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
+        "Description": "Main functions of this HP color inkjet photo printer: copy, scan, fax, wireless printing, AirPrint, touchscreen, Instant Ink ready so you'll never run out of ink, and more
+        The power of your printer in the palm of your hand: The HP Smart app allows you to easily set up your printer, scan from your smartphone, order toner, and print from the cloud—such as iCloud, Dropbox and Google Drive
+        Print laser-quality documents and lab-quality photos from your smartphone or tablet
+        Optional quiet mode helps keep noise to a minimum
+        Choose an ink replenishment service: Save up to 50% with HP Instant Ink or save 10% on all reorders with Amazon Dash Replenishment upon activation; your printer measures ink levels and places smart reorders when you are running low
+        Designed to fit your life: Save your space with a compact all-in-one designed to fit on your desk, on a shelf, or anywhere you need it
+        Paper sizes supported: Letter; legal; 4 x 6 in; 5 x 7 in; 8 x 10 in; No 10 envelopes
+        One-year limited hardware warranty; 24-hour, 7 days a week Web support",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/hp_office_printer.jpg",
+        "Price": 91.90,
         "Quantity": 58
     },
     {
-        "Name": "Product12",
-        "UPC": 123456789123,
+        "Name": "Texas Instruments TI-36X Pro Engineering/Scientific Calculator",
+        "UPC": 523369711796,
         "ID": 11,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Ideal for curricula in which graphing technology may not be permitted.
+        MultiView display shows multiple calculations at the same time on screen.
+        MathPrint shows math expressions, symbols and stacked fractions as they appear in textbooks
+        Ideal for high school through college: Algebra 1 & 2, Geometry, Trigonometry, Statistics, Calculus, Biology, etc.
+        Convert fractions, decimals and terms including Pi into alternate representations.
+        Select degrees/radians, floating/fix, number format modes.",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/calculator.jpg",
+        "Price": 17.73,
+        "Quantity": 102
     },
     {
-        "Name": "Product13",
-        "UPC": 123456789123,
+        "Name": "Thermal Laminator, 13 Inches Width Laminating Machine for A3/A4/A6, 3 Min Fast Warm-up with 12 inches/min Quick Laminating Speed, Quiet for Office/School/Home Use, Includes Laminating Pouches, L309-A",
+        "UPC": 961785643257,
         "ID": 12,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
+        "Description": "Fast Preheating and Quick Laminating - Bonsaii large thermal machine is compatible with 13 inches paper, and warms up shortly with 3-min with Ready light on. Its laminating speed reaches 12inches/min (300mm/min) to save your valuable time and boost efficiency.
+        Great Helper for Your files - Supported both hot and cold lamination, choose the laminating sheets of appropriate size (3-5mil) to lay your files. It is nice for protecting your documents, photos, cards, posters, painting away from losing their color and getting air bubbles, wrinkles, and smudges.
+        ABS Inserted to Release Jam - Please switch to OFF, press ABS button firmly with one hand and effortlessly pull the paper from the feed or deliver opening with the other hand if there is a position error or jammed paper when you placing the pouches.
+        Low dB for Quiet Environment - Owing its low motor speed and a smooth lamination, so it will making no terrible squeaking noise when working, which create an quiet and comfortable environment for personal, home, office and school use.
+        Reliable 12-Month Warranty - 1-year limited warranty to make you shop with confidence. We providing 7X24 hour service, if you have any further problems, please feel free to contact us any time for better help.",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/laminator.jpg",
         "Price": 18.6,
-        "Quantity": 58
+        "Quantity": 14
     },
     {
-        "Name": "Product14",
-        "UPC": 123456789123,
+        "Name": "AmazonBasics High-Speed HDMI Cable, 6 Feet",
+        "UPC": 859478214145,
         "ID": 13,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)
+        Connects Blu-ray players, Fire TV, Apple TV, PS4, PS3, XBox One, Xbox 360, computers and other HDMI-enabled devices to TVs, displays, A/V receivers and more
+        Cable allows you to share an Internet connection among multiple devices without the need for a separate Ethernet cable
+        Meets the latest HDMI standards (4K Video at 30 Hz, 2160p, 48 bit/px color depth) that supports bandwidth up to 18Gbps and backwards compatible with earlier versions
+        Cable Length: 6 feet (1.8 meters); Backed by AmazonBasics Limited Lifetime warranty.",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/hdmi.jpg",
+        "Price": 6.99,
+        "Quantity": 40
     },
     {
-        "Name": "Product15",
-        "UPC": 123456789123,
+        "Name": "Bestand Cell Phone Stand,Tablet Stand Holder for All Android Smartphones & Tablets Silver",
+        "UPC": 893162258746,
         "ID": 14,
         "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
-    },
-    {
-        "Name": "Product16",
-        "UPC": 123456789123,
-        "ID": 15,
-        "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
-    },
-    {
-        "Name": "Product17",
-        "UPC": 123456789123,
-        "ID": 16,
-        "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
-    },
-    {
-        "Name": "Product18",
-        "UPC": 123456789123,
-        "ID": 17,
-        "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
-    },
-    {
-        "Name": "Product19",
-        "UPC": 123456789123,
-        "ID": 18,
-        "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
-    },
-    {
-        "Name": "Product20",
-        "UPC": 123456789123,
-        "ID": 19,
-        "SKU": "SKU code",
-        "Description": "Product's description",
-        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png",
-        "Price": 18.6,
-        "Quantity": 58
+        "Description": "Magnesium-Mluminium Alloy material, classical match colors and durable design
+        Compatible With iPad mini/ iPad Air and Samsung Galaxy Tab 2/3/4£¬all Android Smartphones & Tablets, iPhone 6 6s 7 8 X Plus 5 5s 5c charging
+        Ergonomic viewing angle supporting both vertical and horizontal viewing
+        Perfect manage your cables and dock yours iPad when charging
+        Thoughtful tablets & non-slipp cushion Design, protect from sliding and scratch",
+        "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/stand.jpg",
+        "Price": 10.98,
+        "Quantity": 12
     }
 ]
