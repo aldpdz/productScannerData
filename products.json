@@ -1,4 +1,4 @@
-[{"Name":"Product1","UPC":123456789123,"ID":0,"SKU":"SKU code","Description":"Product's description","Picture":"https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png","Price":18.6, "Quantity":58},
+[{"Name":"AmazonBasics MGR0975 Mouse inalámbrico con receptor nano-Negro","UPC":123456789123,"ID":0,"SKU":"SKU code","Description":"Product's description","Picture":"https://raw.githubusercontent.com/aldpdz/productScannerData/master/ratonjpg.png","Price":18.6, "Quantity":58},
 {"Name":"Product2","UPC":123456789123,"ID":0,"SKU":"SKU code","Description":"Product's description","Picture":"https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png","Price":18.6, "Quantity":58},
 {"Name":"Product3","UPC":123456789123,"ID":0,"SKU":"SKU code","Description":"Product's description","Picture":"https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png","Price":18.6, "Quantity":58},
 {"Name":"Product4","UPC":123456789123,"ID":0,"SKU":"SKU code","Description":"Product's description","Picture":"https://raw.githubusercontent.com/aldpdz/productScannerData/master/shirt.png","Price":18.6, "Quantity":58},
