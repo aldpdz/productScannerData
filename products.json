@@ -1,7 +1,7 @@
 [
     {
         "Name": "AmazonBasics Wireless Computer Mouse with Nano Receiver",
-        "UPC": 657765776589,
+        "UPC": "657765776589",
         "ID": 0,
         "SKU": "SKU code",
         "Description": "Smooth, precise and affordable wireless optical 3-button mouse with nano receiver for laptop, desktop and netbook PCs 2.4 GHz wireless provides a powerful, reliable connection Nano-receiver stays in the PC USB port or stows conveniently inside the wireless mouse when not in use (note: Receiver is stored within the mouse from production and needs to be removed upon setup) Compatible with Windows 2000, XP, Vista, 7, 8, and 10 and Apple OS X Easy installation - refer to user manual for instructions Backed by an AmazonBasics 1-Year Limited Warranty",
@@ -11,7 +11,7 @@
     },
     {
         "Name": "Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L,Silver",
-        "UPC": 123456789123,
+        "UPC": "123456789123",
         "ID": 1,
         "SKU": "SKU code",
         "Description": "AMD Ryzen 3 3200U Dual Core Processor (Up to 3.5GHz); 4GB DDR4 Memory; 128GB PCIe NVMe SSD
@@ -26,7 +26,7 @@
     },
     {
         "Name": "Google - Pixel 3a with 64GB Memory Cell Phone (Unlocked) - Clearly White",
-        "UPC": 128412948562,
+        "UPC": "128412948562",
         "ID": 2,
         "SKU": "SKU code",
         "Description": "Capture stunning photos with features like night sight, portrait mode, and HDR+
@@ -43,7 +43,7 @@
     },
     {
         "Name": "Logitech Over-The-Head Wireless Headset H600",
-        "UPC": 472961937648,
+        "UPC": "472961937648",
         "ID": 3,
         "SKU": "SKU code",
         "Description": "Convenient leave-in wireless receiver: Tiny nano receiver stays in your computer so your headset is always ready to use
@@ -57,7 +57,7 @@
     },
     {
         "Name": "NVIDIA SHIELD Controller - Android",
-        "UPC": 873596148536,
+        "UPC": "873596148536",
         "ID": 4,
         "SKU": "SKU code",
         "Description": "The official controller for SHIELD portable and SHIELD Tablet. Support for GeForce-equipped PCs coming soon.
@@ -70,7 +70,7 @@
     },
     {
         "Name": "Logitech C922x Pro Stream Webcam – Full 1080p HD Camera",
-        "UPC": 873259654781,
+        "UPC": "873259654781",
         "ID": 5,
         "SKU": "SKU code",
         "Description": "Web Camera specifically designed and optimized for professional quality video streaming on social gaming and entertainment sites like Twitch and YouTube
@@ -84,7 +84,7 @@
     },
     {
         "Name": "Logitech 3.5mm Jack Compact Laptop Speakers, Black (Z130)",
-        "UPC": 823496517398,
+        "UPC": "823496517398",
         "ID": 6,
         "SKU": "SKU code",
         "Description": "Rich and strong stereo sound with 5 watts of power
@@ -97,7 +97,7 @@
     },
     {
         "Name": "Acer V246HQL 23.6-Inch Full HD LED Backlit Widescreen LCD Monitor",
-        "UPC": 853179654127,
+        "UPC": "020357122682",
         "ID": 7,
         "SKU": "SKU code",
         "Description": "23.6-Inch Full HD (1920 x 1080)
@@ -110,7 +110,7 @@
     },
     {
         "Name": "AmazonBasics Matte Black Wired Keyboard - US Layout (QWERTY)",
-        "UPC": 271354863593,
+        "UPC": "271354863593",
         "ID": 8,
         "SKU": "SKU code",
         "Description": "Low-profile Keys Provide a Quiet, Comfortable Typing Experience
@@ -125,7 +125,7 @@
     },
     {
         "Name": "HP Elite 8100 Desktop Computer - Intel Core i5 3.2GHz Processor, 8GB RAM, 1TB Hard Drive, 20 Inch LCD Monitor, DVD, New USB Keyboard, Mouse & WiFi Adapter, Windows 10 Professional (Renewed)",
-        "UPC": 853255658746,
+        "UPC": "853255658746",
         "ID": 9,
         "SKU": "SKU code",
         "Description": "This product has been professionally inspected and tested by Amazon-qualified suppliers. The product may have minimal scratches or dents, and a battery with at least 80% capacity. Box may be generic and accessories may not be original, but will be compatible and fully functional. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied. Learn more
@@ -141,7 +141,7 @@
     },
     {
         "Name": "HP OfficeJet 3830 All-in-One Wireless Printer, HP Instant Ink or Amazon Dash replenishment ready (K7V40A)",
-        "UPC": 858575132658,
+        "UPC": "858575132658",
         "ID": 10,
         "SKU": "SKU code",
         "Description": "Main functions of this HP color inkjet photo printer: copy, scan, fax, wireless printing, AirPrint, touchscreen, Instant Ink ready so you'll never run out of ink, and more
@@ -159,7 +159,7 @@
     },
     {
         "Name": "Texas Instruments TI-36X Pro Engineering/Scientific Calculator",
-        "UPC": 523369711796,
+        "UPC": "523369711796",
         "ID": 11,
         "SKU": "SKU code",
         "Description": "Ideal for curricula in which graphing technology may not be permitted.
@@ -174,7 +174,7 @@
     },
     {
         "Name": "Thermal Laminator, 13 Inches Width Laminating Machine for A3/A4/A6, 3 Min Fast Warm-up with 12 inches/min Quick Laminating Speed, Quiet for Office/School/Home Use, Includes Laminating Pouches, L309-A",
-        "UPC": 961785643257,
+        "UPC": "961785643257",
         "ID": 12,
         "SKU": "SKU code",
         "Description": "Fast Preheating and Quick Laminating - Bonsaii large thermal machine is compatible with 13 inches paper, and warms up shortly with 3-min with Ready light on. Its laminating speed reaches 12inches/min (300mm/min) to save your valuable time and boost efficiency.
@@ -188,7 +188,7 @@
     },
     {
         "Name": "AmazonBasics High-Speed HDMI Cable, 6 Feet",
-        "UPC": 859478214145,
+        "UPC": "859478214145",
         "ID": 13,
         "SKU": "SKU code",
         "Description": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)
@@ -204,7 +204,7 @@
     },
     {
         "Name": "Bestand Cell Phone Stand,Tablet Stand Holder for All Android Smartphones & Tablets Silver",
-        "UPC": 893162258746,
+        "UPC": "893162258746",
         "ID": 14,
         "SKU": "SKU code",
         "Description": "Magnesium-Mluminium Alloy material, classical match colors and durable design
