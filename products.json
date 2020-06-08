@@ -3,7 +3,7 @@
         "Name": "AmazonBasics Wireless Computer Mouse with Nano Receiver",
         "UPC": "657765776589",
         "ID": 0,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_00",
         "Description": "Smooth, precise and affordable wireless optical 3-button mouse with nano receiver for laptop, desktop and netbook PCs 2.4 GHz wireless provides a powerful, reliable connection Nano-receiver stays in the PC USB port or stows conveniently inside the wireless mouse when not in use (note: Receiver is stored within the mouse from production and needs to be removed upon setup) Compatible with Windows 2000, XP, Vista, 7, 8, and 10 and Apple OS X Easy installation - refer to user manual for instructions Backed by an AmazonBasics 1-Year Limited Warranty",
         "Picture": "https://raw.githubusercontent.com/aldpdz/productScannerData/master/mouse.jpg",
         "Price": 12.99,
@@ -13,7 +13,7 @@
         "Name": "Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L,Silver",
         "UPC": "123456789123",
         "ID": 1,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_01",
         "Description": "AMD Ryzen 3 3200U Dual Core Processor (Up to 3.5GHz); 4GB DDR4 Memory; 128GB PCIe NVMe SSD
         15.6 inches Full HD (1920 x 1080) Widescreen LED backlit IPS Display; AMD Radeon Vega 3 Mobile Graphics
         1 USB 3.1 Gen 1 Port,
@@ -28,7 +28,7 @@
         "Name": "Google - Pixel 3a with 64GB Memory Cell Phone (Unlocked) - Clearly White",
         "UPC": "128412948562",
         "ID": 2,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_02",
         "Description": "Capture stunning photos with features like night sight, portrait mode, and HDR+
         Save every photo with free, unlimited storage at high quality through Google photos
         The Google assistant is the easiest way to get things done including screening calls
@@ -45,7 +45,7 @@
         "Name": "Logitech Over-The-Head Wireless Headset H600",
         "UPC": "472961937648",
         "ID": 3,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_03",
         "Description": "Convenient leave-in wireless receiver: Tiny nano receiver stays in your computer so your headset is always ready to use
         Clear stereo sound: Laser-tuned speaker drivers and noise-cancelling microphone for clear calls. Frequency response (Headset): 40Hz - 10KHz , Frequency response (Microphone): 100Hz - 6.5kHz
         Long-range wireless: Listen and chat up to 10 meter (33 feet.) from your computer-and longer with a six-hour rechargeable battery
@@ -59,7 +59,7 @@
         "Name": "NVIDIA SHIELD Controller - Android",
         "UPC": "873596148536",
         "ID": 4,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_04",
         "Description": "The official controller for SHIELD portable and SHIELD Tablet. Support for GeForce-equipped PCs coming soon.
         Redesigned from the ground up for precision gaming
         Dual vibration feedback
@@ -72,7 +72,7 @@
         "Name": "Logitech C922x Pro Stream Webcam – Full 1080p HD Camera",
         "UPC": "873259654781",
         "ID": 5,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_05",
         "Description": "Web Camera specifically designed and optimized for professional quality video streaming on social gaming and entertainment sites like Twitch and YouTube
         Stream and record vibrant,
         true to life HD 1080P video at 30Fps/ 720P at 60FPS. Compatibility Windows 7, Windows 8 or Windows 10, macOS X 10.9 or higher, XBox One, Chrome OS, Android v5.0 or above, USB port. FoV: 78 degree
@@ -86,7 +86,7 @@
         "Name": "Logitech 3.5mm Jack Compact Laptop Speakers, Black (Z130)",
         "UPC": "823496517398",
         "ID": 6,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_06",
         "Description": "Rich and strong stereo sound with 5 watts of power
         Compact, low-profile design ideal for desks with limited space
         Convenient on-speaker volume and power controls, headphone jack, plus 3.5 millimeter jack input for your MP3, DVD or CD player
@@ -99,7 +99,7 @@
         "Name": "Acer V246HQL 23.6-Inch Full HD LED Backlit Widescreen LCD Monitor",
         "UPC": "020357122682",
         "ID": 7,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_07",
         "Description": "23.6-Inch Full HD (1920 x 1080)
         Brightness: 250 cd/m2
         Viewing Angle: ANGLE: 170(H) X 160(V)
@@ -112,7 +112,7 @@
         "Name": "AmazonBasics Matte Black Wired Keyboard - US Layout (QWERTY)",
         "UPC": "271354863593",
         "ID": 8,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_08",
         "Description": "Low-profile Keys Provide a Quiet, Comfortable Typing Experience
         Hotkeys Enable Easy Access for Media, My Computer, Mute, Volume down, Volume up, and Calculator; 4 Function Keys Control Previous Track, Stop, Play/pause, next Track on Your Media Player
         Simple Wired USB Connection; Works with Windows 2000, XP, Vista,
@@ -127,7 +127,7 @@
         "Name": "HP Elite 8100 Desktop Computer - Intel Core i5 3.2GHz Processor, 8GB RAM, 1TB Hard Drive, 20 Inch LCD Monitor, DVD, New USB Keyboard, Mouse & WiFi Adapter, Windows 10 Professional (Renewed)",
         "UPC": "853255658746",
         "ID": 9,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_09",
         "Description": "This product has been professionally inspected and tested by Amazon-qualified suppliers. The product may have minimal scratches or dents, and a battery with at least 80% capacity. Box may be generic and accessories may not be original, but will be compatible and fully functional. This product is eligible for a replacement or refund within 90 days of receipt if you are not satisfied. Learn more
 
         POWERFUL PROCESSOR - Configured with Intel’s top of the line Core i5 series processor so you can expect lightning fast, reliable and consistent performance for an exceptional PC experience.
@@ -143,7 +143,7 @@
         "Name": "HP OfficeJet 3830 All-in-One Wireless Printer, HP Instant Ink or Amazon Dash replenishment ready (K7V40A)",
         "UPC": "858575132658",
         "ID": 10,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_10",
         "Description": "Main functions of this HP color inkjet photo printer: copy, scan, fax, wireless printing, AirPrint, touchscreen, Instant Ink ready so you'll never run out of ink, and more
         The power of your printer in the palm of your hand: The HP Smart app allows you to easily set up your printer, scan from your smartphone, order toner, and print from the cloud—such as iCloud, Dropbox and Google Drive
         Print laser-quality documents and lab-quality photos from your smartphone or tablet
@@ -161,7 +161,7 @@
         "Name": "Texas Instruments TI-36X Pro Engineering/Scientific Calculator",
         "UPC": "523369711796",
         "ID": 11,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_11",
         "Description": "Ideal for curricula in which graphing technology may not be permitted.
         MultiView display shows multiple calculations at the same time on screen.
         MathPrint shows math expressions, symbols and stacked fractions as they appear in textbooks
@@ -176,7 +176,7 @@
         "Name": "Thermal Laminator, 13 Inches Width Laminating Machine for A3/A4/A6, 3 Min Fast Warm-up with 12 inches/min Quick Laminating Speed, Quiet for Office/School/Home Use, Includes Laminating Pouches, L309-A",
         "UPC": "961785643257",
         "ID": 12,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_12",
         "Description": "Fast Preheating and Quick Laminating - Bonsaii large thermal machine is compatible with 13 inches paper, and warms up shortly with 3-min with Ready light on. Its laminating speed reaches 12inches/min (300mm/min) to save your valuable time and boost efficiency.
         Great Helper for Your files - Supported both hot and cold lamination, choose the laminating sheets of appropriate size (3-5mil) to lay your files. It is nice for protecting your documents, photos, cards, posters, painting away from losing their color and getting air bubbles, wrinkles, and smudges.
         ABS Inserted to Release Jam - Please switch to OFF, press ABS button firmly with one hand and effortlessly pull the paper from the feed or deliver opening with the other hand if there is a position error or jammed paper when you placing the pouches.
@@ -190,7 +190,7 @@
         "Name": "AmazonBasics High-Speed HDMI Cable, 6 Feet",
         "UPC": "859478214145",
         "ID": 13,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_13",
         "Description": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)
         Connects Blu-ray players, Fire TV, Apple TV, PS4, PS3, XBox One, Xbox 360, computers and other HDMI-enabled devices to TVs, displays, A/V receivers and more
         Cable allows you to share an Internet connection among multiple devices without the need for a separate Ethernet cable
@@ -206,7 +206,7 @@
         "Name": "Bestand Cell Phone Stand,Tablet Stand Holder for All Android Smartphones & Tablets Silver",
         "UPC": "893162258746",
         "ID": 14,
-        "SKU": "SKU code",
+        "SKU": "SKU-code_14",
         "Description": "Magnesium-Mluminium Alloy material, classical match colors and durable design
         Compatible With iPad mini/ iPad Air and Samsung Galaxy Tab 2/3/4£¬all Android Smartphones & Tablets, iPhone 6 6s 7 8 X Plus 5 5s 5c charging
         Ergonomic viewing angle supporting both vertical and horizontal viewing
